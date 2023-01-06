@@ -1,12 +1,7 @@
-## Hi there 👋
+## Welcome to the ZERO Engine repository!
 
-<!--
+Welcome everyone interested in this creation called ZERO Engine! This engine is a creation of [Kolibra Studios](https://vk.com/kolibracorp.official), and is an engine built on the basis of FLEXengine and Unity3D technologies.
 
-**Here are some ideas to get you started:**
+### Who is the engine intended for?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+First of all, the engine is designed for simple creation of games based on it. And users add new details of the engine and its functions, and improve it together.
